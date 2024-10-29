@@ -2,3 +2,4 @@
 * text=auto
 *.cs linguist-language=CSharp
 *.cs linguist-detectable=true
+*.scss linguist-detectable=false
